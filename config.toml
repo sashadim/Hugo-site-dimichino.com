@@ -1,0 +1,28 @@
+baseURL = "https://www.dimichino.com"
+languageCode = "en-us"
+title = "Sasha's blog"
+theme = "github-style"
+googleAnalytics = "UA-40814819-6"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  contributions = "post"
+  author = "Alessandro 'Sasha' DIMICHINO"
+  github = "sashadim"
+  description = "‘First things first. Get the champagne.’ Winston Churchill, 1931, New York."
+  twitter = "SashaDim"
+  email = "alessandro@dimichino.com"
+  utterances = "sashadim/sashadim.github.io"
+  facebook = "alessandrosashadimichino"
+  linkedin = "alessandrosashadimichino"
+  url = "/resume/DIMICHINO-Resume.pdf"
+  keywords = "resume manager project management sales b2b oil and gas power generation procurement master italy mip director responsabile commerciale acquisti"
+  rss = true
+  location = "Italy"
+  lastmod = true
+  favicon = "/images/github.png"
+  avatar = "/images/avatar.JPG"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sasha&#39;s blog</title>
+    <link>http://www.dimichino.com/</link>
+    <description>Recent content on Sasha&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2020 17:44:13 +0200</lastBuildDate><atom:link href="http://www.dimichino.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.dimichino.com/post/about/</link>
+      <pubDate>Sat, 10 Oct 2020 17:44:13 +0200</pubDate>
+      
+      <guid>http://www.dimichino.com/post/about/</guid>
+      <description>Significant experience in the development and implementation of complex solutions covering commercial, technological, service and procurement issues within important international Companies.
+  Within the Telecommunication business in Siemens Group, first as a technical-commercial specialist and, lastly, covering managerial and executive functions as Director of Proposal and of Service Sales departments. Having a worldwide responsibility, most negotiations and activities occurred abroad, in particular in EMEA, APAC and MERCOSUR countries.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.dimichino.com/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.dimichino.com/readme/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+  </channel>
+</rss>
